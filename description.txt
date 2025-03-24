@@ -1,0 +1,6 @@
+Changes the max number of items in each stack.
+Cobble - 250
+Sand - 100
+Stone - 100
+Dirt - 250
+and more...
