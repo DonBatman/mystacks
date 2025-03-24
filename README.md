@@ -1,4 +1,4 @@
-This mod changes the number of items in a stack.
+This mod changes the number of items in a stack.If you want to change the number of items you can do it at the top of init.lua. Below that is the list of items that changes. It is easy to add more if you want.
 It makes them hold 250 items in a stack.
 
 Here are the items that changes;
