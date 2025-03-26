@@ -1,4 +1,4 @@
-local stack = 250
+local stack = tonumber(core.settings:get("mystacks.stack_size")) or 250
 
 local stackitems = {"default:cobble",
 					"default:desert_cobble",
