@@ -23,8 +23,6 @@ default:desert_stone
 
 default:sandstone
 
-default:sandstone
-
 default:silver_sandstone
 
 default:stonebrick
